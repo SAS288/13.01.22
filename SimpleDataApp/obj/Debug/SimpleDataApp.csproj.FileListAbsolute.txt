@@ -1,0 +1,12 @@
+C:\Users\1009\source\repos\SimpleDataApp\bin\Debug\SimpleDataApp.exe.config
+C:\Users\1009\source\repos\SimpleDataApp\bin\Debug\SimpleDataApp.exe
+C:\Users\1009\source\repos\SimpleDataApp\bin\Debug\SimpleDataApp.pdb
+C:\Users\1009\source\repos\SimpleDataApp\obj\Debug\SimpleDataApp.csproj.AssemblyReference.cache
+C:\Users\1009\source\repos\SimpleDataApp\obj\Debug\SimpleDataApp.Form1.resources
+C:\Users\1009\source\repos\SimpleDataApp\obj\Debug\SimpleDataApp.Properties.Resources.resources
+C:\Users\1009\source\repos\SimpleDataApp\obj\Debug\SimpleDataApp.csproj.GenerateResource.cache
+C:\Users\1009\source\repos\SimpleDataApp\obj\Debug\SimpleDataApp.csproj.CoreCompileInputs.cache
+C:\Users\1009\source\repos\SimpleDataApp\obj\Debug\SimpleDataApp.exe
+C:\Users\1009\source\repos\SimpleDataApp\obj\Debug\SimpleDataApp.pdb
+C:\Users\1009\source\repos\SimpleDataApp\obj\Debug\SimpleDataApp.NewCustomer.resources
+C:\Users\1009\source\repos\SimpleDataApp\obj\Debug\SimpleDataApp.FillOrCancel.resources
